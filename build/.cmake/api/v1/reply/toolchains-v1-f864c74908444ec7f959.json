@@ -40,7 +40,7 @@
 						"kernel32"
 					]
 				},
-				"path" : "c:/tools/mingw64/bin/gcc.exe",
+				"path" : "C:/tools/mingw64/bin/gcc.exe",
 				"version" : "14.2.0"
 			},
 			"language" : "C",
@@ -94,7 +94,7 @@
 						"kernel32"
 					]
 				},
-				"path" : "c:/tools/mingw64/bin/g++.exe",
+				"path" : "C:/tools/mingw64/bin/g++.exe",
 				"version" : "14.2.0"
 			},
 			"language" : "CXX",

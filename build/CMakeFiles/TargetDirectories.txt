@@ -1,3 +1,3 @@
-D:/UNIVERSIDAD/DECIMO/PROGRA_PARALELA/Ejercicio2/02-Fragtal-Serial/build/CMakeFiles/fractal_serial.dir
-D:/UNIVERSIDAD/DECIMO/PROGRA_PARALELA/Ejercicio2/02-Fragtal-Serial/build/CMakeFiles/edit_cache.dir
-D:/UNIVERSIDAD/DECIMO/PROGRA_PARALELA/Ejercicio2/02-Fragtal-Serial/build/CMakeFiles/rebuild_cache.dir
+C:/Users/fing.labcom/Documents/PRACTICAS/Programacion_Paralela/Clases_Paralela/Nueva carpeta/02-Fragtal-Serial/build/CMakeFiles/fractal_serial.dir
+C:/Users/fing.labcom/Documents/PRACTICAS/Programacion_Paralela/Clases_Paralela/Nueva carpeta/02-Fragtal-Serial/build/CMakeFiles/edit_cache.dir
+C:/Users/fing.labcom/Documents/PRACTICAS/Programacion_Paralela/Clases_Paralela/Nueva carpeta/02-Fragtal-Serial/build/CMakeFiles/rebuild_cache.dir

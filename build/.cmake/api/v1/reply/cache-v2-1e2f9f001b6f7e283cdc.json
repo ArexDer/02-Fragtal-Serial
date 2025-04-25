@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "d:/UNIVERSIDAD/DECIMO/PROGRA_PARALELA/Ejercicio2/02-Fragtal-Serial/build"
+			"value" : "c:/Users/fing.labcom/Documents/PRACTICAS/Programacion_Paralela/Clases_Paralela/Nueva carpeta/02-Fragtal-Serial/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -143,7 +143,7 @@
 				}
 			],
 			"type" : "STRING",
-			"value" : "c:/tools/mingw64/bin/g++.exe"
+			"value" : "C:/tools/mingw64/bin/g++.exe"
 		},
 		{
 			"name" : "CMAKE_CXX_COMPILER_AR",
@@ -287,7 +287,7 @@
 				}
 			],
 			"type" : "STRING",
-			"value" : "c:/tools/mingw64/bin/gcc.exe"
+			"value" : "C:/tools/mingw64/bin/gcc.exe"
 		},
 		{
 			"name" : "CMAKE_C_COMPILER_AR",
@@ -575,7 +575,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/UNIVERSIDAD/DECIMO/PROGRA_PARALELA/Ejercicio2/02-Fragtal-Serial/build/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/fing.labcom/Documents/PRACTICAS/Programacion_Paralela/Clases_Paralela/Nueva carpeta/02-Fragtal-Serial/build/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -647,7 +647,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/UNIVERSIDAD/DECIMO/PROGRA_PARALELA/Ejercicio2/02-Fragtal-Serial"
+			"value" : "C:/Users/fing.labcom/Documents/PRACTICAS/Programacion_Paralela/Clases_Paralela/Nueva carpeta/02-Fragtal-Serial"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1299,7 +1299,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/UNIVERSIDAD/DECIMO/PROGRA_PARALELA/Ejercicio2/02-Fragtal-Serial/build"
+			"value" : "C:/Users/fing.labcom/Documents/PRACTICAS/Programacion_Paralela/Clases_Paralela/Nueva carpeta/02-Fragtal-Serial/build"
 		},
 		{
 			"name" : "FractalSerial_IS_TOP_LEVEL",
@@ -1323,7 +1323,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/UNIVERSIDAD/DECIMO/PROGRA_PARALELA/Ejercicio2/02-Fragtal-Serial"
+			"value" : "C:/Users/fing.labcom/Documents/PRACTICAS/Programacion_Paralela/Clases_Paralela/Nueva carpeta/02-Fragtal-Serial"
 		},
 		{
 			"name" : "SFML_DIR",
