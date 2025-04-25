@@ -1,14 +1,20 @@
 [
 {
   "directory": "C:/Users/fing.labcom/Documents/PRACTICAS/Programacion_Paralela/Clases_Paralela/Nueva carpeta/02-Fragtal-Serial/build",
-  "command": "C:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -isystem C:/tools/vcpkg/installed/x64-mingw-dynamic/include -g -o CMakeFiles\\fractal_serial.dir\\main.cpp.obj -c \"C:\\Users\\fing.labcom\\Documents\\PRACTICAS\\Programacion_Paralela\\Clases_Paralela\\Nueva carpeta\\02-Fragtal-Serial\\main.cpp\"",
+  "command": "C:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -isystem C:/tools/vcpkg/installed/x64-mingw-dynamic/include  -mavx2 -g -o CMakeFiles\\fractal_serial.dir\\main.cpp.obj -c \"C:\\Users\\fing.labcom\\Documents\\PRACTICAS\\Programacion_Paralela\\Clases_Paralela\\Nueva carpeta\\02-Fragtal-Serial\\main.cpp\"",
   "file": "C:\\Users\\fing.labcom\\Documents\\PRACTICAS\\Programacion_Paralela\\Clases_Paralela\\Nueva carpeta\\02-Fragtal-Serial\\main.cpp",
   "output": "CMakeFiles\\fractal_serial.dir\\main.cpp.obj"
 },
 {
   "directory": "C:/Users/fing.labcom/Documents/PRACTICAS/Programacion_Paralela/Clases_Paralela/Nueva carpeta/02-Fragtal-Serial/build",
-  "command": "C:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -isystem C:/tools/vcpkg/installed/x64-mingw-dynamic/include -g -o CMakeFiles\\fractal_serial.dir\\fractal_serial.cpp.obj -c \"C:\\Users\\fing.labcom\\Documents\\PRACTICAS\\Programacion_Paralela\\Clases_Paralela\\Nueva carpeta\\02-Fragtal-Serial\\fractal_serial.cpp\"",
+  "command": "C:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -isystem C:/tools/vcpkg/installed/x64-mingw-dynamic/include  -mavx2 -g -o CMakeFiles\\fractal_serial.dir\\fractal_serial.cpp.obj -c \"C:\\Users\\fing.labcom\\Documents\\PRACTICAS\\Programacion_Paralela\\Clases_Paralela\\Nueva carpeta\\02-Fragtal-Serial\\fractal_serial.cpp\"",
   "file": "C:\\Users\\fing.labcom\\Documents\\PRACTICAS\\Programacion_Paralela\\Clases_Paralela\\Nueva carpeta\\02-Fragtal-Serial\\fractal_serial.cpp",
   "output": "CMakeFiles\\fractal_serial.dir\\fractal_serial.cpp.obj"
+},
+{
+  "directory": "C:/Users/fing.labcom/Documents/PRACTICAS/Programacion_Paralela/Clases_Paralela/Nueva carpeta/02-Fragtal-Serial/build",
+  "command": "C:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -isystem C:/tools/vcpkg/installed/x64-mingw-dynamic/include  -mavx2 -g -o CMakeFiles\\fractal_serial.dir\\fractal_simd.cpp.obj -c \"C:\\Users\\fing.labcom\\Documents\\PRACTICAS\\Programacion_Paralela\\Clases_Paralela\\Nueva carpeta\\02-Fragtal-Serial\\fractal_simd.cpp\"",
+  "file": "C:\\Users\\fing.labcom\\Documents\\PRACTICAS\\Programacion_Paralela\\Clases_Paralela\\Nueva carpeta\\02-Fragtal-Serial\\fractal_simd.cpp",
+  "output": "CMakeFiles\\fractal_serial.dir\\fractal_simd.cpp.obj"
 }
 ]

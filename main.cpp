@@ -5,6 +5,7 @@
 #include <iostream>
 
 #include "fractal_serial.h"
+#include "fractal_simd.h"
 
 const double x_min = -1.5;
 const double x_max = 1.2;
@@ -17,7 +18,7 @@ const double y_max = 1.0;
 int max_iteraciones = 10;
 static uint32_t* pixel_buffer = nullptr;
 
-enum class runtime_type { CPU_1, CPU_2 };
+enum class runtime_type { CPU_1, CPU_2, SIMD };
 
 int main() {
     pixel_buffer = new uint32_t[WIDTH * HEIGHT];
@@ -58,6 +59,9 @@ int main() {
                     case sf::Keyboard::Scan::Num2:
                         r_type = runtime_type::CPU_2;
                         break;
+                        case sf::Keyboard::Scan::Num3:
+                        r_type = runtime_type::SIMD;
+                        break;
                     case sf::Keyboard::Scan::Up:
                         max_iteraciones += 10;
                         break;
@@ -81,6 +85,11 @@ int main() {
             julia_serial_2(x_min, y_min, x_max, y_max, pixel_buffer);
             mode = "CPU_2";
         }
+        else if (r_type == runtime_type::SIMD) {
+            julia_simd(x_min, y_min, x_max, y_max, pixel_buffer);
+            mode = "SIMD";
+        }
+
 
         texture.update((const std::uint8_t*)pixel_buffer);
 

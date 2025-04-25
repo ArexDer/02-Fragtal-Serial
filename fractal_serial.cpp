@@ -5,6 +5,8 @@
 
 #include "palette.h"
 
+
+
 #define WIDTH 1600
 #define HEIGHT 900
 extern int max_iteraciones;

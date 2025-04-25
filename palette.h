@@ -5,7 +5,7 @@
 #include <cstdint>
 #include <vector>
 //INVIERTE LOS BYTES
-uint32_t _bswap32(uint32_t a) {
+ uint32_t _bswap32(uint32_t a) {
     return
         ((a & 0X000000FF) << 24) |
         ((a & 0X0000FF00) <<  8) |
