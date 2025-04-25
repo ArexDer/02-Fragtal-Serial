@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/UNIVERSIDAD/DECIMO/PROGRA_PARALELA/Ejercicio2/02-Fragtal-Serial/build",
+  "command": "c:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -isystem C:/tools/vcpkg/installed/x64-mingw-dynamic/include -g -o CMakeFiles\\fractal_serial.dir\\main.cpp.obj -c D:\\UNIVERSIDAD\\DECIMO\\PROGRA_PARALELA\\Ejercicio2\\02-Fragtal-Serial\\main.cpp",
+  "file": "D:\\UNIVERSIDAD\\DECIMO\\PROGRA_PARALELA\\Ejercicio2\\02-Fragtal-Serial\\main.cpp",
+  "output": "CMakeFiles\\fractal_serial.dir\\main.cpp.obj"
+},
+{
+  "directory": "D:/UNIVERSIDAD/DECIMO/PROGRA_PARALELA/Ejercicio2/02-Fragtal-Serial/build",
+  "command": "c:\\tools\\mingw64\\bin\\g++.exe -DFMT_SHARED -isystem C:/tools/vcpkg/installed/x64-mingw-dynamic/include -g -o CMakeFiles\\fractal_serial.dir\\fractal_serial.cpp.obj -c D:\\UNIVERSIDAD\\DECIMO\\PROGRA_PARALELA\\Ejercicio2\\02-Fragtal-Serial\\fractal_serial.cpp",
+  "file": "D:\\UNIVERSIDAD\\DECIMO\\PROGRA_PARALELA\\Ejercicio2\\02-Fragtal-Serial\\fractal_serial.cpp",
+  "output": "CMakeFiles\\fractal_serial.dir\\fractal_serial.cpp.obj"
+}
+]

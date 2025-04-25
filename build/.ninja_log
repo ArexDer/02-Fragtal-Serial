@@ -1,0 +1,10 @@
+# ninja log v6
+41	2153	7672402431303739	CMakeFiles/fractal_serial.dir/main.cpp.obj	def52018bfa8c10
+46	1055	7672402431384292	CMakeFiles/fractal_serial.dir/fractal_serial.cpp.obj	beeac287cb411fec
+2153	9801	7672402452442813	fractal_serial.exe	b5d16053123edc34
+68	2449	7672407624816656	CMakeFiles/fractal_serial.dir/fractal_serial.cpp.obj	1585e1b4e81b7571
+60	6632	7672407624715033	CMakeFiles/fractal_serial.dir/main.cpp.obj	76d8f973ccf914e5
+6632	13937	7672407690450003	fractal_serial.exe	4e1ecf51754722da
+57	967	7672409892135039	CMakeFiles/fractal_serial.dir/fractal_serial.cpp.obj	1585e1b4e81b7571
+50	2177	7672409892097677	CMakeFiles/fractal_serial.dir/main.cpp.obj	76d8f973ccf914e5
+2177	7269	7672409913370361	fractal_serial.exe	4e1ecf51754722da
