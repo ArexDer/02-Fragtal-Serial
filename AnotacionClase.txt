@@ -1,0 +1,5 @@
+JNI para C y no para C++.
+
+ddl y so .... para el compilador
+
+Para hacerlo en java usamos una LIBRERIA lwgl :

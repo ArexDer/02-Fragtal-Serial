@@ -18,6 +18,8 @@ const double y_max = 1.0;
 int max_iteraciones = 10;
 static uint32_t* pixel_buffer = nullptr;
 
+
+
 enum class runtime_type { CPU_1, CPU_2, SIMD };
 
 int main() {
